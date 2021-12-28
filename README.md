@@ -70,7 +70,7 @@
 
 <a href = "https://www.linkedin.com/in/syar-sardar-0402481b4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/SardarSyar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.facebook.com/syar.sardar"><img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNDgiIGhlaWdodD0iNDgiCnZpZXdCb3g9IjAgMCA0OCA0OCIKc3R5bGU9IiBmaWxsOiMwMDAwMDA7Ij48cGF0aCBmaWxsPSIjM0Y1MUI1IiBkPSJNNDIsMzdjMCwyLjc2Mi0yLjIzOCw1LTUsNUgxMWMtMi43NjEsMC01LTIuMjM4LTUtNVYxMWMwLTIuNzYyLDIuMjM5LTUsNS01aDI2YzIuNzYyLDAsNSwyLjIzOCw1LDVWMzd6Ij48L3BhdGg+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTM0LjM2OCwyNUgzMXYxM2gtNVYyNWgtM3YtNGgzdi0yLjQxYzAuMDAyLTMuNTA4LDEuNDU5LTUuNTksNS41OTItNS41OUgzNXY0aC0yLjI4N0MzMS4xMDQsMTcsMzEsMTcuNiwzMSwxOC43MjNWMjFoNEwzNC4zNjgsMjV6Ij48L3BhdGg+PC9zdmc+"/></a>
+<a href = "https://www.facebook.com/syar.sardar"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
 
